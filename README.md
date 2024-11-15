@@ -1,2 +1,2 @@
 # WADS
-why
+Weird and dumb stuff idek
